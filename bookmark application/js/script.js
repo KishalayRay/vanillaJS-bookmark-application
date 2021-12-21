@@ -1,4 +1,4 @@
-//listen for form submit
+
 
 const form = document.getElementById("myForm");
 
